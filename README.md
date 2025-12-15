@@ -1,3 +1,5 @@
+<img width="1906" height="889" alt="image" src="https://github.com/user-attachments/assets/7fcff8fc-a8e6-42c5-80d8-3449d91e0b72" />
+
 # 🧭 Career Compass Assistant
 
 A comprehensive AI-powered career guidance platform built with Next.js 16, React 19, and cutting-edge AI models. Career Compass helps job seekers analyze positions, evaluate their GitHub profiles, generate personalized career roadmaps, practice interviews, and receive intelligent career guidance through an AI chat assistant.
