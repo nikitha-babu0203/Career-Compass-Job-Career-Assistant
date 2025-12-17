@@ -467,6 +467,6 @@ For support, email santhoshsans030@gmail.com or open an issue on GitHub.
 
 ---
 
-Made with ❤️ by [Santhosh](https://github.com/Santhosh1631)
+Made with ❤️ by [Nikitha](https://github.com/Santhosh1631)
 
 **Star ⭐ this repository if you find it helpful!**
